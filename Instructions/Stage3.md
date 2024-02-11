@@ -210,8 +210,4 @@ This configuration has several limitations :-
 
 - The application media and UI store is local to an instance, scaling IN/OUT risks this media
 - Customer Connections are to an instance directly ... no health checks/auto healing
-- The IP of the instance is hardcoded into the database ....
-
-
-You can now move onto STAGE 4
-
+- The IP of the instance is hardcoded into the database.
