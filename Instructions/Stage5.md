@@ -247,17 +247,5 @@ This configuration has several limitations :-
 - ~~The database and application are on the same instance, neither can scale without the other~~ FIXED  
 - ~~The database of the application is on an instance, scaling IN/OUT risks this media~~ FIXED  
 - ~~The application media and UI store is local to an instance, scaling IN/OUT risks this media~~ FIXED  
-- ~~Customer Connections are to an instance directly ... no health checks/auto healing~~ FIXED
-- ~~The IP of the instance is hardcoded into the database ....~~ FIXED
-
-
-You can now move onto STAGE6 which is the cleanup step.  
-
-
-
-
-
-
-
-
-
+- ~~Customer Connections are to an instance directly, no health checks/auto healing~~ FIXED
+- ~~The IP of the instance is hardcoded into the database.~~ FIXED
