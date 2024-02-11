@@ -54,5 +54,5 @@ Select the `A4LVPC` stack, click `Delete` and confirm by clicking on `Delete Sta
 
 # STAGE 6 - FINISH
 
-Thats all the things ... thanks for reading :)
+Thats all the things lads :thumbsup:
 
